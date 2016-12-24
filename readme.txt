@@ -1,4 +1,7 @@
-Steps to run the program
+# Multiple Clients Single Server Chat Application
+
+To execute follow the below steps :
+
 1. Run ChatServer.java
 2. Run ChatClient.java for as many clients as you want.
 3. Enter a one word username for each client.
